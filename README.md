@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me:<br>Hi, I’m Luca, a 32-year-old programmer from Turin.<br><br>I'm currently working on:<br>Studying programming.<br><br>I'm looking to collaborate on:<br>Projects related to 3D printing or technology.<br><br>I'm looking for help with:<br>Optimizing my code.<br><br>I'm currently learning:<br>Python, JavaScript, and C#.<br><br>Ask me about:<br>My motorbike trips and experiences.<br><br>Fun fact:<br>I enjoy 3D printing and have created various custom designs!
+About Me:<br>Hi, I’m Luca, a 33-year-old programmer from Turin.<br><br>I'm currently working on:<br>Studying programming.<br><br>I'm looking to collaborate on:<br>Projects related to 3D printing or technology.<br><br>I'm looking for help with:<br>Optimizing my code.<br><br>I'm currently learning:<br>Python, JavaScript, and C#.<br><br>Ask me about:<br>My motorbike trips and experiences.<br><br>Fun fact:<br>I enjoy 3D printing and have created various custom designs!
 
 
 ## 🌐 Socials:
