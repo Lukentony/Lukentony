@@ -28,7 +28,7 @@ I don't just print upgrades for my printer; I've designed a whole collection of 
 
 ## 📊 GitHub Stats:
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=Lukentony&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" height="150" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukentony&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" height="150" /></p>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lukentony&theme=dark&hide_border=false" alt="Streak" /></p>
+<p align="left"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=Lukentony&theme=dark&hide_border=false" alt="Streak" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Lukentony&theme=radical&no-frame=false&no-bg=true&margin-w=4)
