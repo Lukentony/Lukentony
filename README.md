@@ -36,5 +36,3 @@ I don't just print upgrades for my printer; I've designed a whole collection of 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-<p align="center"> <b>Thanks for stopping by! You are visitor number:</b><br/> <img src="https://visitcount.itsvg.in/api?id=Lukentony&icon=0&color=0" alt="Visitor Count"> </p>
