@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi, I'm Luca, a 33-year-old developer from Turin who converts caffeine into code.
+Hi, I'm Luca, a 34-year-old developer from Turin who converts caffeine into code.
 
 **I'm currently working on:**
 Earning my stripes with a Master in AI Development and surviving my own syntax errors.
