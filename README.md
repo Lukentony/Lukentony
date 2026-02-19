@@ -1,6 +1,6 @@
 # 🛡️ Luca | AI Developer & Maker
 
-Hi, I'm **Luca**, a developer from Turin specialized in **AI Security** and **Automation**. I build neural networks and create the "firewalls" that keep them safe.
+Hi, I'm **Luca Rivoiro**, a developer from Turin specialized in **AI Security** and **Automation**. I build neural networks and create the "firewalls" that keep them safe.
 
 ### 🚀 Milestone 2026
 * 🎓 **AI Certification:** Completed a Master in AI Development in 6 months with **28/30**.
