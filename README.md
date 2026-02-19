@@ -1,38 +1,40 @@
-# 💫 About Me:
+# 🛡️ Luca | AI Developer & Maker
 
-Hi, I'm Luca, a 34-year-old developer from Turin who converts caffeine into code.
+Hi, I'm **Luca**, a developer from Turin specialized in **AI Security** and **Automation**. I build neural networks and create the "firewalls" that keep them safe.
 
-**I'm currently working on:**
-Earning my stripes with a Master in AI Development and surviving my own syntax errors.
+### 🚀 Milestone 2026
+* 🎓 **AI Certification:** Completed a Master in AI Development in 6 months with **28/30**.
+* 🛡️ **Shipped:** Developed [**AI Guardian Lab**](https://github.com/Lukentony/AI-guardian-lab), a security middleware in **Python** that audits AI-generated shell commands to prevent destructive executions.
 
-**I'm looking to collaborate on:**
-Anything where 3D printing meets tech (let's build something tangible!).
+### 🛠️ What I'm Focused On
+* 🤖 **AI Guardian Lab:** Bridging the gap between autonomous Agents and system security (preventing `rm -rf /` hallucinations).
+* 🐍 **Python Power:** Developing robust backends and AI logic with a focus on safe execution.
+* 🧠 **Neural Networks:** Training and deploying models with PyTorch and TensorFlow.
+* 🔩 **Maker Mindset:** Merging AI with 3D printing to create smart gadgets and custom hardware.
 
-**I'm looking for help with:**
-Making my code run faster than my motorbike.
+### 🤝 Let's Collaborate
+* Interested in **DevSecOps**, **AI Agent Safety**, and **Custom Hardware** projects.
+* Open to discussing model optimization or building secure AI pipelines.
 
-**I'm currently learning:**
-The holy trinity (Python, JavaScript, C#) and diving deep into the world of Artificial Intelligence.
-
-**Ask me about:**
-My motorbike trips, AI trends, or how many times I've had to restart a 3D print.
-
-**Fun fact:**
-I don't just print upgrades for my printer; I've designed a whole collection of custom gadgets!
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lukentony) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-rivoiro) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Lukentony) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Lukentony) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Lukentony_) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.uno/@lukentony) 
-
-## 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-<p align="left"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=Lukentony&theme=dark&hide_border=false" alt="Streak" /></p>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Lukentony&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 💬 Ask Me About
+* **AI Security:** How to stop an LLM from breaking your terminal.
+* **Motorbike Trips:** Exploring the best routes around the Alps.
+* **3D Printing:** From CAD design to troubleshooting a failed 12-hour print.
 
 ---
+
+## 💻 Tech Stack:
+**AI & Security** ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+
+**Languages** ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-rivoiro) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lukentony) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Lukentony) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=flat&logo=mastodon&logoColor=white)](https://mastodon.uno/@lukentony) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Lukentony_) 
+
+---
+
+<p align="left">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Lukentony&theme=dark&hide_border=false" alt="Streak" />
+</p>
