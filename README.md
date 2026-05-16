@@ -1,58 +1,80 @@
-# 🛡️ Luca | AI Developer & Python Engineer
+<div align="center">
 
-Hi, I'm **Luca**, a developer from Turin specialized in **AI development**, **LLM integration**, and **automation**. I build intelligent systems and the guardrails that keep them safe.
+# Luca Rivoiro
+### AI Developer · LLM Security · Python Engineer
 
-### 🚀 Milestone 2026
-* 🎓 **AI Certification:** Completed a 400-hour Master in A.I. Development (ProfessionAI) in 6 months — **28/30**, covering LLMs, Agentic AI, REST APIs, MLOps and more.
-* 🛡️ **Shipped:** [**AI Guardian Lab**](https://github.com/Lukentony/AI-guardian-lab) — Asenior-grade security middleware for AI Agents. It implements a multi-layer defense strategy (Binary Allowlisting, Regex Heuristics, and LLM Intent Coherence) with **cryptographically signed logs (HMAC-SHA256)** to ensure forensic integrity. 100% automated CI/CD coverage.
+*I build intelligent systems — and the guardrails that keep them from going rogue.*
 
-### 🛠️ What I'm Focused On
-* 🤖 **Agentic AI Safety:** Bridging the gap between autonomous Agents and system security (preventing `rm -rf /` hallucinations).
-* 🐍 **Python Backends:** Building robust APIs and AI logic with FastAPI, LangChain, and Pydantic.
-* 🔁 **Workflow Automation:** Designing intelligent pipelines with n8n, Docker, and self-hosted LLM deployments.
-* 🔩 **Maker Mindset:** Merging AI with 3D printing to create smart gadgets and custom hardware.
-* 🔐 **Security & Integrity:** Building "Zero-Trust" architectures for LLMs, focusing on deterministic safety layers and tamper-proof auditing.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-rivoiro)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Lukentony_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/lukentony)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://mastodon.uno/@lukentony)
 
-### 🤝 Let's Collaborate
-* Interested in **DevSecOps**, **AI Agent Safety**, **LLM integration**, and **automation** projects.
-* Open to discussing model optimization or building secure, production-ready AI pipelines.
-
-### 💬 Ask Me About
-* **AI Security:** How to stop an LLM from breaking your terminal.
-* **Motorbike Trips:** Exploring the best routes around the Alps.
-* **3D Printing:** From CAD design to troubleshooting a failed 12-hour print.
+</div>
 
 ---
 
-## 💻 Tech Stack:
+## About
 
-**AI & ML**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+AI developer focused on **LLM integration**, **agentic systems**, and the security layer between AI models and the real world. Currently building production-grade tooling to make autonomous agents safer, more auditable, and harder to exploit.
+
+400-hour Master in AI Development · ProfessionAI · **28/30** — covering LLMs, Agentic AI, REST APIs and MLOps.
+
+---
+
+## Featured Project
+
+### 🛡️ [AI Guardian Lab](https://github.com/Lukentony/AI-guardian-lab)
+> Security middleware for AI Agents. Multi-layer defense: Binary Allowlisting → Regex Heuristics → LLM Intent Coherence. Cryptographically signed logs via **HMAC-SHA256** for forensic integrity.
+
+```
+Input ──► L1: Allowlist ──► L2: Pattern Engine ──► L3: LLM Intent Check ──► Agent
+                │                    │                        │
+             BLOCK               BLOCK                    BLOCK + log
+```
+
+---
+
+## Tech Stack
+
+**AI & Security**
+&nbsp;
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-**Backend & APIs**
+**Backend & Infrastructure**
+&nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
-**Automation & Data**
+**Automation**
+&nbsp;
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat&logo=sqlite&logoColor=white)
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-rivoiro)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lukentony)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Lukentony)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=flat&logo=mastodon&logoColor=white)](https://mastodon.uno/@lukentony)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Lukentony_)
+## What I'm Working On
+
+- **AI Agent Safety** — stopping autonomous agents from hallucinating destructive shell commands
+- **LLM Pipelines** — building secure, observable inference pipelines with self-hosted models
+- **Workflow Automation** — n8n + Docker + local LLMs for real-world automation
+- **Maker projects** — merging AI with 3D printing for smart hardware prototypes
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Lukentony&theme=dark&hide_border=false" alt="Streak" />
-</p>
+## Outside the Terminal
+
+When I'm not pushing commits: riding mountain routes across the Alps on two wheels, debugging long 3D prints, and deep-diving into motorsport data.
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Lukentony&theme=dark&hide_border=true&background=00000000&ring=4f98a3&fire=4f98a3&currStreakLabel=4f98a3" alt="GitHub Streak" />
+
+</div>
