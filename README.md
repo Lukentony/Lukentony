@@ -3,7 +3,7 @@
 # Luca Rivoiro
 ### AI Developer · LLM Security · Python Engineer
 
-*I build intelligent systems — and the guardrails that keep them from going rogue.*
+*I build intelligent systems, and the guardrails that keep them from going rogue.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-rivoiro)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Lukentony_)
@@ -18,7 +18,7 @@
 
 AI developer focused on **LLM integration**, **agentic systems**, and the security layer between AI models and the real world. Currently building production-grade tooling to make autonomous agents safer, more auditable, and harder to exploit.
 
-400-hour Master in AI Development · ProfessionAI · **28/30** — covering LLMs, Agentic AI, REST APIs and MLOps.
+400-hour Master in AI Development · ProfessionAI · **28/30**, covering LLMs, Agentic AI, REST APIs and MLOps.
 
 ---
 
@@ -60,10 +60,10 @@ Input ──► L1: Allowlist ──► L2: Pattern Engine ──► L3: LLM Int
 
 ## What I'm Working On
 
-- **AI Agent Safety** — stopping autonomous agents from hallucinating destructive shell commands
-- **LLM Pipelines** — building secure, observable inference pipelines with self-hosted models
-- **Workflow Automation** — n8n + Docker + local LLMs for real-world automation
-- **Maker projects** — merging AI with 3D printing for smart hardware prototypes
+- **AI Agent Safety:** stopping autonomous agents from hallucinating destructive shell commands
+- **LLM Pipelines:** building secure, observable inference pipelines with self-hosted models
+- **Workflow Automation:** n8n + Docker + local LLMs for real-world automation
+- **Maker projects:** merging AI with 3D printing for smart hardware prototypes
 
 ---
 
