@@ -5,6 +5,7 @@
 
 *I build intelligent systems, and the guardrails that keep them from going rogue.*
 
+[![Website](https://img.shields.io/badge/Portfolio-lukentony.it-22c55e?style=flat&logo=firefox&logoColor=white)](https://lukentony.it)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-rivoiro)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Lukentony_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/lukentony)
