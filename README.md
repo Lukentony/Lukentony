@@ -1,15 +1,11 @@
 <div align="center">
 
 # Luca Rivoiro
-### AI Developer · LLM Security · Python Engineer
+### Software & AI Developer
 
-*I build intelligent systems, and the guardrails that keep them from going rogue.*
+I use agents and automation as a multiplier: from prototype to the server running it, I get there on my own.
 
-[![Website](https://img.shields.io/badge/Portfolio-lukentony.it-22c55e?style=flat&logo=firefox&logoColor=white)](https://lukentony.it)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-rivoiro)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/Lukentony_)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/lukentony)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://mastodon.uno/@lukentony)
+[Portfolio](https://lukentony.it) · [LinkedIn](https://www.linkedin.com/in/luca-rivoiro) · [X](https://x.com/Lukentony_) · [Instagram](https://instagram.com/lukentony) · [Mastodon](https://mastodon.uno/@lukentony)
 
 </div>
 
@@ -17,22 +13,36 @@
 
 ## About
 
-AI developer focused on **LLM integration**, **agentic systems**, and the security layer between AI models and the real world. Currently building production-grade tooling to make autonomous agents safer, more auditable, and harder to exploit.
+I build complete products: sites, apps, automation, middleware, and the infrastructure they run on. Agent security is one of the areas I go deepest on, and AI Guardian Lab below is the clearest proof of that.
 
-400-hour Master in AI Development · ProfessionAI · **28/30**, covering LLMs, Agentic AI, REST APIs and MLOps.
+400-hour Master in AI Development, ProfessionAI, 28/30, covering LLMs, agentic AI, REST APIs and MLOps.
+
+Based in Turin, Italy. Open to remote roles.
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### 🛡️ [AI Guardian Lab](https://github.com/Lukentony/AI-guardian-lab)
-> Security middleware for AI Agents. Multi-layer defense: Binary Allowlisting → Regex Heuristics → LLM Intent Coherence. Cryptographically signed logs via **HMAC-SHA256** for forensic integrity.
+### [AI Guardian Lab](https://github.com/Lukentony/AI-guardian-lab)
+Security middleware for AI agents. Shell commands pass through an allowlist, a regex layer, and an LLM intent check before running. Every decision is logged in a hash chain signed with HMAC-SHA256, so a tampered entry breaks the chain.
 
 ```
 Input ──► L1: Allowlist ──► L2: Pattern Engine ──► L3: LLM Intent Check ──► Agent
                 │                    │                        │
              BLOCK               BLOCK                    BLOCK + log
 ```
+
+### [HomeSync](https://github.com/Lukentony/homesync)
+Self-hosted task manager for two people I actually live with. FastAPI backend, React frontend with no build step, runs in Docker.
+
+### [BoxBox](https://github.com/Lukentony/boxbox)
+PWA for MotoGP 2026 standings and a private Fantasy league with friends. Vanilla JS, no build step, installable and works offline.
+
+### [Calcolatore RAL](https://github.com/Lukentony/jethr-calcolatore-ral)
+Gross-to-net salary calculator for Italy, built for a hiring test. Vanilla JS, no backend, every INPS/IRPEF formula visible in the code. [Live demo](https://stackblitz.com/edit/jethr-calcolatore-ral-dwnnomzw).
+
+### [Orizzonte Sole](https://github.com/Lukentony/orizzonte-sole)
+Fork of a solar-eclipse visibility tool (original by lucamalinverno-datapizza), adapted to run self-hosted for the August 12, 2026 eclipse. The demo infrastructure was temporary and is offline now; the code stays as reference.
 
 ---
 
@@ -50,7 +60,6 @@ Input ──► L1: Allowlist ──► L2: Pattern Engine ──► L3: LLM Int
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
 **Automation**
 &nbsp;
@@ -61,16 +70,14 @@ Input ──► L1: Allowlist ──► L2: Pattern Engine ──► L3: LLM Int
 
 ## What I'm Working On
 
-- **AI Agent Safety:** stopping autonomous agents from hallucinating destructive shell commands
-- **LLM Pipelines:** building secure, observable inference pipelines with self-hosted models
-- **Workflow Automation:** n8n + Docker + local LLMs for real-world automation
-- **Maker projects:** merging AI with 3D printing for smart hardware prototypes
+- Agent safety, the focus of AI Guardian Lab above.
+- Workflow automation with n8n and Docker, some of it running on my own server.
 
 ---
 
 ## Outside the Terminal
 
-When I'm not pushing commits: riding mountain routes across the Alps on two wheels, debugging long 3D prints, and deep-diving into motorsport data.
+Cycling mountain routes in the Alps, and following motorsport data closely (BoxBox above started as an excuse to look at it more). Interested in hardware prototyping and 3D printing, though I don't own a printer yet.
 
 ---
 
