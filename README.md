@@ -35,14 +35,17 @@ Input ──► L1: Allowlist ──► L2: Pattern Engine ──► L3: LLM Int
 ### [HomeSync](https://github.com/Lukentony/homesync)
 Self-hosted task manager for two people I actually live with. FastAPI backend, React frontend with no build step, runs in Docker.
 
-### [BoxBox](https://github.com/Lukentony/boxbox)
-PWA for MotoGP 2026 standings and a private Fantasy league with friends. Vanilla JS, no build step, installable and works offline.
+### [Broom](https://github.com/Lukentony/broom)
+Offline-first PWA for shared-household cleaning tasks. Data stays on the paired phones and syncs automatically when they are on the same Wi-Fi.
+
+### [Personal website](https://github.com/Lukentony/luca-rivoiro-site)
+Hand-built static portfolio in vanilla HTML, CSS, and JavaScript, deployed on Cloudflare Pages with WCAG AA accessibility as a design constraint.
 
 ### [Calcolatore RAL](https://github.com/Lukentony/jethr-calcolatore-ral)
 Gross-to-net salary calculator for Italy, built for a hiring test. Vanilla JS, no backend, every INPS/IRPEF formula visible in the code. [Live demo](https://jethr-calcolatore-ral.vercel.app/).
 
-### [Orizzonte Sole](https://github.com/Lukentony/orizzonte-sole)
-Fork of a solar-eclipse visibility tool (original by lucamalinverno-datapizza), adapted to run self-hosted for the August 12, 2026 eclipse. The demo infrastructure was temporary and is offline now; the code stays as reference.
+### [BoxBox](https://github.com/Lukentony/boxbox)
+PWA for MotoGP 2026 standings and a private Fantasy league with friends. Vanilla JS, no build step, installable and works offline.
 
 ---
 
