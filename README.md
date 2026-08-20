@@ -77,7 +77,7 @@ Fork of a solar-eclipse visibility tool (original by lucamalinverno-datapizza), 
 
 ## Outside the Terminal
 
-Cycling mountain routes in the Alps, and following motorsport data closely (BoxBox above started as an excuse to look at it more). Interested in hardware prototyping and 3D printing, though I don't own a printer yet.
+Cycling mountain routes in the Alps, and following motorsport data closely (BoxBox above started as an excuse to look at it more). Hands-on training and personal practice in 2D/3D CAD, 3D printing, and laser engraving/cutting. Projects on Instagram: [@luke_lab_3d](https://www.instagram.com/luke_lab_3d/).
 
 ---
 
