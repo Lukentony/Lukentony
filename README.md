@@ -39,7 +39,7 @@ Self-hosted task manager for two people I actually live with. FastAPI backend, R
 PWA for MotoGP 2026 standings and a private Fantasy league with friends. Vanilla JS, no build step, installable and works offline.
 
 ### [Calcolatore RAL](https://github.com/Lukentony/jethr-calcolatore-ral)
-Gross-to-net salary calculator for Italy, built for a hiring test. Vanilla JS, no backend, every INPS/IRPEF formula visible in the code. [Live demo](https://stackblitz.com/edit/jethr-calcolatore-ral-dwnnomzw).
+Gross-to-net salary calculator for Italy, built for a hiring test. Vanilla JS, no backend, every INPS/IRPEF formula visible in the code. [Live demo](https://jethr-calcolatore-ral.vercel.app/).
 
 ### [Orizzonte Sole](https://github.com/Lukentony/orizzonte-sole)
 Fork of a solar-eclipse visibility tool (original by lucamalinverno-datapizza), adapted to run self-hosted for the August 12, 2026 eclipse. The demo infrastructure was temporary and is offline now; the code stays as reference.
